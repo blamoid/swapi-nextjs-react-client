@@ -16,10 +16,14 @@ SWAPI client for browsing list of planets in Star Wars universe using SWAPI, Nex
 2. Navigate to the project directory: `cd swapi-nextjs-react-client`
 3. Install the dependencies: `npm install`
 
-##  Usage
+## Usage
 
 1. Start the development server: `npm run dev`
 2. Open your browser and visit: `http://localhost:3000`
+
+## Live Demo
+
+https://swapi-nextjs-react-client.vercel.app/
 
 ## License
 
